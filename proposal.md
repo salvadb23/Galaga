@@ -66,13 +66,13 @@ Have a difficulty setting and allow for other game modes
 
 
 ## Approval Checklist
-- [ ] If I have a team project, I wrote this proposal to represent my work and only my work
-- [ ] I have completed all the necessary parts of this proposal
-- [ ] I linked my proposal in the Spring Intensive Tracker
+- [✅] If I have a team project, I wrote this proposal to represent my work and only my work
+- [✅] I have completed all the necessary parts of this proposal
+- [✅] I linked my proposal in the Spring Intensive Tracker
 
 ### Sign off
 
 **Student Name:**                
-> Name / Date
+> Salvador Becerra
 **Make School Advisor Name**
-> TBD
+> Mitchell
